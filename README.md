@@ -1,5 +1,6 @@
 # MGL On-chain Wallet - MGL Exchange
 
+![Alt text](https://file%252B.vscode-resource.vscode-cdn.net/Users/Daveayo/Downloads/image_2023_09_06T20_37_24_966Z.png?version%253D1694465230388)
 ## Overview:
 MGL cryptocurrency exchange - We operate the worlds robust and reliable bitcoin exchange and altcoin crypto exchange in the world by volume.
 
