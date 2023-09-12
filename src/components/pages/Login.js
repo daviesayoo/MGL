@@ -17,6 +17,6 @@ function LogIn() {
       <Register className="absolute top-0 w-screen h-screen login-back"/>
     </motion.div>
   );
-}
+};
 
 export default LogIn;

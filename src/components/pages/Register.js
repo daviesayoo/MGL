@@ -51,6 +51,6 @@ function Register() {
       </motion.div>}
     </>
   );
-}
+};
 
 export default Register;

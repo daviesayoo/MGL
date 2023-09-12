@@ -115,5 +115,5 @@ export default class Wallet {
   }
   getNetworkUrl() {
     return this.networkUrl;
-  };
+  }
 }

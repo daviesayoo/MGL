@@ -76,6 +76,6 @@ const getPresaleData = async()=>{
       </div>  
     </div>
   );
-}
+};
 
 export default Launch;

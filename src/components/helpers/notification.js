@@ -9,6 +9,6 @@ const openNotification = (title,message,ok,go) => {
       onClose:go
     };
     notification.open(args);
-  };
+  }
 
   export default openNotification;

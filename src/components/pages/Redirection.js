@@ -19,6 +19,6 @@ function Redirection(props) {
       <span className="text-xl absolute ">Loading...</span>
     </div>
   );
-}
+};
 
 export default Redirection;

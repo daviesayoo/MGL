@@ -89,5 +89,5 @@ export default class Wallet {
             console.log(error)
             return ""
         }
-    };
+    }
 }

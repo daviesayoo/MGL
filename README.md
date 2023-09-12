@@ -7,7 +7,7 @@ MGL cryptocurrency exchange - We operate the worlds robust and reliable bitcoin 
 ## Development:
 We undertook the development of MGL Exchange at the behest of one of our esteemed clients. This project was meticulously crafted from scratch, encompassing various facets such as web design, website development, smart contract development, and seamless web3 integration.
 
-## The basic funtions:
+## The basic functions:
 
 ### Wallet Creation with 12-Word Phrase
 One of the key features of an on-chain crypto wallet is the ability to create a wallet using a 12-word phrase, also known as a mnemonic phrase or seed phrase. This phrase acts as a backup and can be used to restore the wallet in case of loss or device failure. The 12 words are randomly generated and should be kept secret and stored securely. When creating a wallet, users are typically prompted to write down and verify these words. It is crucial to keep the 12-word phrase safe and not share it with anyone, as it grants access to the wallet and the funds stored within.

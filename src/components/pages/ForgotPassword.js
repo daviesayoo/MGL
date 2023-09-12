@@ -109,7 +109,7 @@ function ForgotPassword(props) {
    
       
       
-  );
+  )
 }
 
 export default ForgotPassword;
