@@ -1,4 +1,4 @@
-import {useState} from "react"
+import {useState} from "react";
 import NavCollapse from "../../component/NavCollapse";
 import Nav from "../../component/Nav";
 import UserInfoTable from "../../component/UserInfoTable";

@@ -339,6 +339,6 @@ function Wallet() {
       </Drawer>
       </>
   );
-}
+};
 
 export default Wallet;

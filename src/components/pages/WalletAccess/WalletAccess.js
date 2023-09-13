@@ -172,6 +172,6 @@ function Launch(props) {
             </div>
         </div>
     );
-}
+};
 
 export default Launch;
