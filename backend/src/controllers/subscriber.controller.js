@@ -18,6 +18,6 @@ class SubscriberController {
             next(error)
         }
     }
-}
+};
 
 module.exports = new SubscriberController

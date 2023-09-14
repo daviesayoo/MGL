@@ -74,6 +74,6 @@ class ManageUserModel {
             return {error:error.sqlMessage};
         }
     }
-}
+};
 
 module.exports = new ManageUserModel;

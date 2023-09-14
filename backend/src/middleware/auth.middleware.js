@@ -43,6 +43,6 @@ const auth = (...roles) => {
             next(e);
         }
     }
-}
+};
 
 module.exports = auth;

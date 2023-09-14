@@ -44,7 +44,7 @@ class IEOController {
         } catch (error) {
             next(error)
         }
-    }
-}
+    };
+};
 
 module.exports = new IEOController

@@ -80,6 +80,6 @@ class P2PModel {
             return {error:error.sqlMessage}
         }
     }
-}
+};
 
 module.exports = new P2PModel;

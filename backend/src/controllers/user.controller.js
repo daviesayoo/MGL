@@ -147,7 +147,7 @@ class UserController {
             next(error)
         }
     }
-}
+};
 
 
 

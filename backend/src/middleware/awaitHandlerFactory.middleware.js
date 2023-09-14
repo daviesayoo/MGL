@@ -6,6 +6,6 @@ const awaitHandlerFactory = (middleware) => {
             next(err)
         }
     }
-}
+};
 
 module.exports = awaitHandlerFactory;

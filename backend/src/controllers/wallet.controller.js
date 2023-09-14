@@ -136,6 +136,6 @@ class WalletController {
             next(error)
         }
     }
-}
+};
 
 module.exports = new WalletController;

@@ -54,6 +54,6 @@ class P2PController {
             next(error)
         }
     }
-}
+};
 
 module.exports = new P2PController

@@ -79,6 +79,6 @@ class IEOModel {
             return {error:error.sqlMessage}
         }
     }
-}
+};
 
 module.exports = new IEOModel;

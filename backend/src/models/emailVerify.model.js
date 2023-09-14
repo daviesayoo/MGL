@@ -65,6 +65,6 @@ class EmailVerifyModel {
             return {error:error.sqlMessage}
         }
     }
-}
+};
 
 module.exports = new EmailVerifyModel;
