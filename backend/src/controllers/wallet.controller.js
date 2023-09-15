@@ -1,4 +1,4 @@
-const WalletService = require("../services/wallet.service")
+const WalletService = require("../services/wallet.service");
 
 class WalletController {
     getTopTokens = async (req, res, next) => {
@@ -135,7 +135,7 @@ class WalletController {
         } catch (error) {
             next(error)
         }
-    }
+    };
 };
 
 module.exports = new WalletController;
