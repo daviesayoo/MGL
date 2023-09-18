@@ -12,4 +12,4 @@ router.delete('/id/:id', auth(Role.Super), awaitHandlerFactory(IEOController.del
 router.get('/', awaitHandlerFactory(IEOController.getAllIEO));
 router.get('/id/:id', awaitHandlerFactory(IEOController.getOneIEO));
 
-module.exports = router
+module.exports = router;

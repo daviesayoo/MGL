@@ -116,4 +116,4 @@ class IEOService {
     }
 }
 
-module.exports = IEOService
+module.exports = IEOService;

@@ -25,4 +25,4 @@ router.get('/', awaitHandlerFactory(P2PController.getAllP2P));
 router.get('/id/:id', awaitHandlerFactory(P2PController.getOneP2P));
 router.post('/upload', upload.single('avatar'), awaitHandlerFactory(P2PController.uploadImage));
 
-module.exports = router
+module.exports = router;

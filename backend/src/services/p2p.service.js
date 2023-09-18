@@ -134,4 +134,4 @@ class P2PService {
     }
 }
 
-module.exports = P2PService
+module.exports = P2PService;
