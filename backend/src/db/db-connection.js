@@ -54,7 +54,7 @@ class DBConnection {
             throw err;
         });
     }
-}
+};
 
 // like ENUM
 const HttpStatusCodes = Object.freeze({
