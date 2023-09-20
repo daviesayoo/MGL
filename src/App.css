@@ -5,6 +5,8 @@
 
 body{
   overflow-x: hidden;
+  padding: 0;
+  margin: 0;
 }
 .myButton{
   

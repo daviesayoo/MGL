@@ -70,6 +70,6 @@ function WalletBuy(props) {
     </Col>
     </>
   );
-}
+};
 
 export default WalletBuy;
