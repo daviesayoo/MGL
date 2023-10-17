@@ -573,7 +573,7 @@ const resources = {
       "Yes, continue purchase": "Тийм, үргэлжлүүлэх",
       "No, send me BNB": "Үгүй, надад BNB илгээнэ үү",
     },
-  },
+  }
 };
 
 i18n.use(initReactI18next).init({
